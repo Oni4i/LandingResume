@@ -1,2 +1,2 @@
 # LandingResume
-test
+https://oni4i.github.io/LandingResume/.
